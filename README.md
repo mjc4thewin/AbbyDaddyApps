@@ -1,7 +1,7 @@
 # AbbyDaddyApps
 Teaching Abby how to code
 
-clone the repo
+clone the repo, requires node
 
 ```
 npm install
